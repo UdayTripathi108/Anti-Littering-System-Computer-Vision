@@ -27,7 +27,7 @@ Note: The model will only work with objects (garbage) trained in our YoloV8, the
 Paper link for the research work carried out: https://ieeexplore.ieee.org/document/10616763
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/UdayTripathi108/Anti-Littering-System-Computer-Vision/blob/main/LICENSE) file for more details.
 
 ## Contact 📇
 For any inquiries or feedback, please contact us at:
